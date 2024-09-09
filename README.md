@@ -1,1 +1,1 @@
-###Criptic algo Front-End
+Criptic algo Front-End
